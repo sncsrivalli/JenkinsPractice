@@ -3,7 +3,7 @@ package testpractice;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class Test3 {
+public class ThirdTest {
 	
 	@Test
 	
